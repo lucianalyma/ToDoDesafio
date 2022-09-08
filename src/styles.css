@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  background-color: khaki;
+}
+
+h1 {
+  color: blueviolet;
+}
+button {
+  color: red;
+  cursor: pointer;
+}
